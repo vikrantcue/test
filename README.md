@@ -14,6 +14,7 @@
 
 ## Purpose
 
+
 A live demo and introduction around deploying Jekyll 4 to GitHub Pages - using a GitHub Actions workflow and the [Jekyll Actions](https://github.com/marketplace/actions/jekyll-actions) action. If you prefer to use a more generic Ruby action to setup your environment, see my related quickstart - [jekyll-github-actions-quickstart](https://github.com/MichaelCurrin/jekyll-github-actions-quickstart).
 
 The reason why we use GitHub Actions to build our Jekyll site is that it gives us more control of the environment and build flow. Like using Jekyll 4 instead of Jekyll 3, using custom gems and adding in shell, Python, or Node.js commands before the Jekyll build command.
